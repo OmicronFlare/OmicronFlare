@@ -6,7 +6,7 @@ moment and i am working hard on getting to a semi-pro or pro football team.**
 
 # My Repositories
 **You are allowed to read my repositories. However, by using them you agree that you are responsible for the damage you cause inside discord, you also agree that if you get in legal trouble or a normal trouble you are responsible for it. Lastly, you agree that if something happens to your discord account
-or it gets banned, you are responsible for it. I made these tools for educational purposes only so you are to use them ethically.
+or it gets banned, you are responsible for it. I made these tools for educational purposes only so you are to use them ethically.**
 
 # Socials
 - [Discord](https://discord.gg/5mJCYkjzFn)
